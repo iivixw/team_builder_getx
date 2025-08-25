@@ -33,4 +33,7 @@ Demo Flutter app using **GetX** (+ GetStorage) that lets a user build a team of 
 
 ## Run
 flutter pub get
+
 flutter run
+
+
